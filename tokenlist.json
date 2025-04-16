@@ -1,0 +1,19 @@
+{
+  "name": "Cherzi Token List",
+  "timestamp": "2025-04-16T00:00:00Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 137,
+      "address": "0xAfFc57904786780f806E9bDc169Ca406B054e962",
+      "symbol": "CHERZI",
+      "name": "Cherzi",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Dziudita/cherzi-token/main/logo.png"
+    }
+  ]
+}
